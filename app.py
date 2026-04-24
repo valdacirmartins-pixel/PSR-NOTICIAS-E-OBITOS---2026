@@ -23,7 +23,7 @@ auth = dash_auth.BasicAuth(
     VALID_USERNAME_PASSWORD_PAIRS
 )
 # =========================
-# CARREGAR CSV (
+# CARREGAR CSV 
 # =========================
 try:
     arq_noticias = glob.glob("pop_rua_20260414_*.csv")[0]
