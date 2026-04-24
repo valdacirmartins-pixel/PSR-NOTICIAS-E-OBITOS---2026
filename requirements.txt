@@ -1,6 +1,10 @@
-dash 
-pandas 
+dash
+dash-auth
+pandas
 plotly
 folium
-dash-auth
+sqlalchemy
+psycopg2-binary
 gunicorn
+duckduckgo_search
+newspaper3k
